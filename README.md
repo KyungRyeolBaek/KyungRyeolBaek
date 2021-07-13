@@ -5,9 +5,8 @@
 - 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&theme=maroongold)](https://github.com/KyungRyeolBaek)
 
 #### Languages and Tools:
