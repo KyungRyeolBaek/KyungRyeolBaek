@@ -1,5 +1,6 @@
 ### Hi there, I'm KyungRyeol ~ 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungRyeolBaek%2Fstudy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungRyeolBaek%2Fstudy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/KyungRyeolBaek)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyungRyeolBaek&count_bg=%2312AC55&title_bg=%237A0000&icon=jupyter.svg&icon_color=%23FFAB00&title=Study&edge_flat=false)](https://github.com/KyungRyeolBaek/study)
 
 - 🔭 I’m currently working on <A href = "https://github.com/KyungRyeolBaek/KyungRyeolBaek/issues" > here </A>
 - 🌱 I’m currently learning python
