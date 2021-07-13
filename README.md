@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=KyungRyeolBaek&theme=maroongold)](https://github.com/KyungRyeolBaek)
-[![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
+[![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&layout=compact&theme=maroongold)](https://www.notion.so/Python-138c2b81326847baaf4854f4514cb7bb)
 
 #### Languages and Tools:
 [<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>](https://github.com/KyungRyeolBaek)
