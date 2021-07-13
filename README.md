@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning python
 - 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=github-readme-stats&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
