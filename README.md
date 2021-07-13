@@ -7,6 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek/study)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek/study)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeolBaek)](https://github.com/KyungRyeolBaek/study)
 
 
 
