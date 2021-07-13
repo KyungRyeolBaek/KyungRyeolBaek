@@ -8,7 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=radical)
 
 # Languages and Tools:
-#3776AB
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 
 <!--
