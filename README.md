@@ -10,7 +10,6 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeolBaek)](https://github.com/KyungRyeolBaek/study)
 
 
-
 #### Languages and Tools:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/SQLite#003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
