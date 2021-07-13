@@ -5,7 +5,7 @@
 - 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=Gradient)
 
 #### Languages and Tools:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
