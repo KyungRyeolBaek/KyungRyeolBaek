@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning python
 - 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)
 
 #### Languages and Tools:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
