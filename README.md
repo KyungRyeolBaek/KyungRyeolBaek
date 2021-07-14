@@ -4,9 +4,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.notion.so%2FPython-138c2b81326847baaf4854f4514cb7bb&count_bg=%23BE9B01&title_bg=%230B0B0B&icon=notion.svg&icon_color=%23FFFFFF&title=Notion&edge_flat=false)](https://www.notion.so/Python-138c2b81326847baaf4854f4514cb7bb)
 
 
-- 🔭 I’m currently working on <A href = "https://github.com/KyungRyeolBaek/KyungRyeolBaek/issues" > here </A>
+- 🔭 I’m currently working on <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
 - 🌱 I’m currently learning python
-- 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/study" > here </A>
+- 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/KyungRyeolBaek/issues" > here </A>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
