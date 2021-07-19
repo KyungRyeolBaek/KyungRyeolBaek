@@ -28,15 +28,15 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@KyungRyeol
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ fbf83140-9b6e-4fb4-8209-3e4e4dfa83e6 }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "true"
           SHOW_LOC_CHART: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_PROJECTS: "false"
-
+<figure><embed src="https://wakatime.com/share/@KyungRyeol/3cc42119-2df9-42c0-a026-e926026abbd8.svg"></embed></figure>
 <!--
 **KyungRyeolBaek/KyungRyeolBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
