@@ -17,6 +17,26 @@
 #### Languages and Tools:
 [<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>](https://github.com/KyungRyeolBaek)
 
+	name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_LOC_CHART: "false"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_PROJECTS: "false"
+
 <!--
 **KyungRyeolBaek/KyungRyeolBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
