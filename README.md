@@ -16,12 +16,15 @@
 - 2020.01 ~ ~ ~ ~ | Hongik University - Industry-Academic Cooperation Foundation
 - 2021.05 ~ ~ ~ ~ | CodeStates AI 03 Bootcamp
 
+## :open_file_folder: Do Working In Here
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=KyungRyeolBaek&theme=maroongold)](https://github.com/KyungRyeolBaek)
+
 ## :computer_mouse: Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=KyungRyeolBaek&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
 
 ## :computer: Tech Stack
