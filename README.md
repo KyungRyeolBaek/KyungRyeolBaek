@@ -25,8 +25,8 @@
 [![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
 
 ## :computer: Tech Stack
-[<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>](https://github.com/KyungRyeolBaek)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+[<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/></a>](https://github.com/KyungRyeolBaek)
+  
 <!--
 **KyungRyeolBaek/KyungRyeolBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
