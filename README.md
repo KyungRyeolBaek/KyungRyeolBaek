@@ -16,7 +16,7 @@
 - 2020.01 ~ ~ ~ ~ | Hongik University - Industry-Academic Cooperation Foundation
 - 2021.05 ~ ~ ~ ~ | CodeStates AI 03 Bootcamp
 
-## :computer_mouse: State
+## :computer_mouse: Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
