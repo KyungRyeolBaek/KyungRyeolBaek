@@ -8,6 +8,15 @@
 - 🌱 I’m currently learning python
 - 💬 Ask me about <A href = "https://github.com/KyungRyeolBaek/KyungRyeolBaek/issues" > here </A>
 
+## :black_nib: Career Plan 
+    
+- 2019.06 ~ 09 B2Link Data Management Assistant
+- 2020.07      City University of Hong Kong - Information Management
+- 2020.09 ~    BESTROOM Marketing Data Analyst  
+- 2021.05 ~    CodeStates AI Bootcamp
+
+## :computer: Tech Stack
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek)
