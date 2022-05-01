@@ -24,7 +24,9 @@
 
 [![KyungRyeolBaek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KyungRyeol&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungRyeolBaek&show_icons=true&theme=maroongold)](https://github.com/KyungRyeolBaek)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungRyeolBaek&layout=compact&theme=maroongold)](https://github.com/KyungRyeolBaek)
+-->
 
 
 ## :computer: Tech Stack
