@@ -19,7 +19,6 @@
 ## :open_file_folder: Do Working In Here
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=study&theme=maroongold)](https://github.com/KyungRyeolBaek/study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyungRyeolBaek&repo=KyungRyeolBaek&theme=maroongold)](https://github.com/KyungRyeolBaek)
 
 ## :computer_mouse: Stats
 
