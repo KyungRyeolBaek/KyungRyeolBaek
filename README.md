@@ -13,8 +13,9 @@
 - 2011.03 ~ 20.08 | Hongik University - Science & Technology Computer&Information Communications
 - 2018.10 ~ 19.08 | Hongik University - Industry-Academic Cooperation Foundation
 - 2019.08 ~ 20.01 | Daegu University - Research Department
-- 2020.01 ~ ~ ~ ~ | Hongik University - Industry-Academic Cooperation Foundation
+- 2020.01 ~ 23.02 | Hongik University - Industry-Academic Cooperation Foundation
 - 2021.05 ~ 21.11 | CodeStates AI 03 Bootcamp
+- 2023.03 ~ ~ ~ ~ | A-MAZE
 
 ## :open_file_folder: Do Working In Here
 
